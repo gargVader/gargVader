@@ -1,7 +1,4 @@
 ### Hi there 👋
-* I am Girish Garg.
-* I am currently interning @ Oracle.
-* I have previously worked at Mercari and some startups.
 
 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/girish23/) [Twitter](https://twitter.com/DroidGarg).
 <br/>
