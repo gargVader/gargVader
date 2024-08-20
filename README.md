@@ -1,7 +1,4 @@
 ### Hi there 👋
-- Girish here 🧑‍💻
-- I'm a Software Engineer @ Mercari, Tokyo 🗼
-- Previously interned @ Oracle & a few startups
 
 ### About me
 
