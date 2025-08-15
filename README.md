@@ -14,5 +14,7 @@
 </p>
 <br>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=o032gtt6ksuzyle5r5uihz76e&count=1&width=500)
+
 <img src="https://komarev.com/ghpvc/?username=gargVader">
 
